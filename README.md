@@ -1,2 +1,3 @@
-# development-of-learning-
+# developme
+nt-of-learning-
 Biblical 
